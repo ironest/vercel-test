@@ -1,3 +1,3 @@
 {
-  "buildCommand": "npm run build"
+  "buildCommand": "cd sub-folder-react && npm run build"
 }
